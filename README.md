@@ -5,9 +5,7 @@ EEG study of temporal sequence learning.
 
 This repository provides the computational steps that transform raw or
 anonymized electrophysiological matrices into participant-level derived
-features. It does not contain patient recordings, electrode coordinates,
-participant identifiers, figure-generation code, group-level inference, or
-publication-specific result tables.
+features. 
 
 ## Scope
 
@@ -24,9 +22,6 @@ The package includes:
 - contact-pair mutual information (MI);
 - inter-regional phase-derived time-lag matrices; and
 - inter-regional phase-amplitude coupling (PAC) matrices.
-
-The repository ends at participant-level feature matrices. Downstream plotting
-and group-level analyses are intentionally outside its scope.
 
 ## Repository structure
 
@@ -338,9 +333,7 @@ results.
 
 ## License
 
-No license has yet been assigned. Before making the repository public, add an
-OSI-approved license such as MIT or BSD-3-Clause and replace this section with
-the selected license name and a link to the `LICENSE` file.
+No license has yet been assigned. 
 
 ## Citation
 
