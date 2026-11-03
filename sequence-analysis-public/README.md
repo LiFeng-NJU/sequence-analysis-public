@@ -1,13 +1,8 @@
 # Sequence-learning iEEG feature extraction
 
 This repository contains participant-level signal-processing and feature-
-extraction code for an intracranial sequence-learning study. It is designed for
-methodological transparency without distributing clinical recordings or
-participant metadata.
+extraction code for an intracranial sequence-learning study. 
 
-The package deliberately stops at derived feature matrices. It contains no
-figure generation, group-level inference, multiple-comparison procedures, or
-publication-specific result tables.
 
 ## Included modules
 
